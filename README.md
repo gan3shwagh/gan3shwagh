@@ -92,37 +92,13 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gan3shwagh&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=false&border_color=b4befe&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gan3shwagh&layout=compact&langs_count=8&theme=transparent&hide_border=false&border_color=b4befe&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=gan3shwagh&theme=transparent&hide_border=false&border=b4befe&stroke=b4befe&ring=cba6f7&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cdd6f4&sideLabels=cdd6f4&dates=cdd6f4&background=1e1e2e&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gan3shwagh&custom_title=Contribution%20Graph&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&area=true&hide_border=false&border_color=b4befe&radius=10" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gan3shwagh&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 🎯 Featured Projects
 
 <div align="center">
 
 [![ProctAI](https://github-readme-stats.vercel.app/api/pin/?username=gan3shwagh&repo=ProctAI&theme=catppuccin_mocha&border_color=b4befe&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e)](https://github.com/gan3shwagh/ProctAI)
-[![SHA256-Implementation](https://github-readme-stats.vercel.app/api/pin/?username=gan3shwagh&repo=SHA256-Implementation&theme=catppuccin_mocha&border_color=b4befe&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e)](https://github.com/gan3shwagh/SHA256-Implementation)
 
 </div>
 

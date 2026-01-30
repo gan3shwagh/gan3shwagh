@@ -92,13 +92,55 @@
 
 ---
 
-
-
 ## 🎯 Featured Projects
 
 <div align="center">
 
-[![ProctAI](https://github-readme-stats.vercel.app/api/pin/?username=gan3shwagh&repo=ProctAI&theme=catppuccin_mocha&border_color=b4befe&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e)](https://github.com/gan3shwagh/ProctAI)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+  
+### 🤖 ProctAI
+[![ProctAI](https://img.shields.io/badge/View_Project-b4befe?style=for-the-badge&logo=github&logoColor=1e1e2e)](https://github.com/gan3shwagh/ProctAI)
+
+</div>
+
+**AI-Powered Exam Proctoring System**
+
+🎯 Real-time monitoring using OpenCV & TensorFlow  
+📊 Head pose & eye gaze tracking  
+🚨 Automated alert generation  
+
+![Python](https://img.shields.io/badge/Python-f5e0dc?style=flat&logo=python&logoColor=1e1e2e&labelColor=89b4fa)
+![OpenCV](https://img.shields.io/badge/OpenCV-f5e0dc?style=flat&logo=opencv&logoColor=1e1e2e&labelColor=a6e3a1)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-f5e0dc?style=flat&logo=tensorflow&logoColor=1e1e2e&labelColor=fab387)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  
+### 🔐 SHA256 Implementation
+[![SHA256](https://img.shields.io/badge/View_Project-b4befe?style=for-the-badge&logo=github&logoColor=1e1e2e)](https://github.com/gan3shwagh/SHA256-Implementation)
+
+</div>
+
+**Cryptographic Hash from Scratch**
+
+⚡ Pure C implementation (NIST FIPS 180-4)  
+🚀 95% of OpenSSL performance  
+🛠️ CLI utility for file verification  
+✅ Validated against NIST test vectors  
+
+![C](https://img.shields.io/badge/C-f5e0dc?style=flat&logo=c&logoColor=1e1e2e&labelColor=94e2d5)
+![Cryptography](https://img.shields.io/badge/Cryptography-f5e0dc?style=flat&logo=letsencrypt&logoColor=1e1e2e&labelColor=f38ba8)
+![Algorithms](https://img.shields.io/badge/Algorithms-f5e0dc?style=flat&logo=thealgorithms&logoColor=1e1e2e&labelColor=cba6f7)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -127,8 +169,6 @@
 > I implemented the SHA256 hashing algorithm from scratch in C just to understand cryptography under the hood - achieved 95% of OpenSSL's performance! 🔐
 
 ---
-
-
 
 <div align="center">
 

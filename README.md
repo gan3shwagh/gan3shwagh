@@ -18,27 +18,27 @@
 
 ## 🚀 About Me
 
-```python
-class DevOpsEnthusiast:
-    def __init__(self):
-        self.name = "Ganesh Wagh"
-        self.role = "Full-Stack Developer & DevOps Learner"
-        self.location = "Nashik, Maharashtra 🇮🇳"
-        self.education = "Diploma in Computer Science @ MSBTE"
-        self.currently_working_on = "ProctAI - AI Exam Proctoring System"
-        
-    def current_focus(self):
-        return [
-            "Mastering Kubernetes orchestration",
-            "Building CI/CD pipelines",
-            "Exploring Infrastructure as Code with Terraform",
-            "Contributing to open-source projects"
-        ]
-    
-    def tech_interests(self):
-        return ["DevOps Automation", "System Administration", 
-                "Containerization", "Cloud-Native Technologies"]
-```
+<table>
+<tr>
+<td>
+
+**👨‍💻 Full-Stack Developer & DevOps Enthusiast**
+
+- 📍 Based in Nashik, Maharashtra 🇮🇳
+- 🎓 Diploma in Computer Science @ MSBTE
+- 🔭 Currently building **ProctAI** - AI Exam Proctoring System
+- 🌱 Learning **Kubernetes**, **Terraform**, and **CI/CD**
+- 💡 Passionate about **DevOps Automation** & **System Administration**
+
+**🎯 Current Focus:**
+- Mastering Kubernetes orchestration
+- Building CI/CD pipelines
+- Exploring Infrastructure as Code with Terraform
+- Contributing to open-source projects
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -95,16 +95,16 @@ class DevOpsEnthusiast:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gan3shwagh&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&border_color=b4befe&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gan3shwagh&layout=compact&langs_count=8&theme=catppuccin_mocha&border_color=b4befe&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gan3shwagh&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=false&border_color=b4befe&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gan3shwagh&layout=compact&langs_count=8&theme=transparent&hide_border=false&border_color=b4befe&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gan3shwagh&theme=catppuccin-mocha&border=b4befe&ring=cba6f7&fire=f38ba8&currStreakLabel=cdd6f4" alt="GitHub Streak" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=gan3shwagh&theme=transparent&hide_border=false&border=b4befe&stroke=b4befe&ring=cba6f7&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cdd6f4&sideLabels=cdd6f4&dates=cdd6f4&background=1e1e2e&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gan3shwagh&theme=catppuccin-mocha&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&area=true&hide_border=false&border_color=b4befe" alt="Contribution Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gan3shwagh&custom_title=Contribution%20Graph&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&area=true&hide_border=false&border_color=b4befe&radius=10" alt="Contribution Graph" />
 </div>
 
 ---
@@ -123,16 +123,6 @@ class DevOpsEnthusiast:
 
 [![ProctAI](https://github-readme-stats.vercel.app/api/pin/?username=gan3shwagh&repo=ProctAI&theme=catppuccin_mocha&border_color=b4befe&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e)](https://github.com/gan3shwagh/ProctAI)
 [![SHA256-Implementation](https://github-readme-stats.vercel.app/api/pin/?username=gan3shwagh&repo=SHA256-Implementation&theme=catppuccin_mocha&border_color=b4befe&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e)](https://github.com/gan3shwagh/SHA256-Implementation)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
 </div>
 
@@ -168,13 +158,48 @@ class DevOpsEnthusiast:
 
 ![Snake animation](https://raw.githubusercontent.com/gan3shwagh/gan3shwagh/output/github-contribution-grid-snake-dark.svg)
 
+<details>
+<summary>⚙️ How to set up the snake animation</summary>
+
+Create a file `.github/workflows/snake.yml` in your `gan3shwagh` repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then run the workflow manually from Actions tab!
+</details>
+
 </div>
 
 ---
 
 <div align="center">
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b4befe&height=120&section=footer" />
 
